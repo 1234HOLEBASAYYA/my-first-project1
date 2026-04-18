@@ -1,1 +1,9 @@
-get the user data.....
+get the user data.....Version: 1.115.0 (user setup)
+Commit: 41dd792b5e652393e7787322889ed5fdc58bd75b
+Date: 2026-04-07T22:04:57Z
+Electron: 39.8.5
+ElectronBuildId: 13703022
+Chromium: 142.0.7444.265
+Node.js: 22.22.1
+V8: 14.2.231.22-electron.0
+OS: Windows_NT x64 10.0.26200
